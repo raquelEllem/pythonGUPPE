@@ -1,0 +1,5 @@
+numero = input('Digite um número inteiro entre 1000 e 9999: ')
+print('{}'.format(numero[0:1]))
+print('{}'.format(numero[1:2]))
+print('{}'.format(numero[2:3]))
+print('{}'.format(numero[3:4]))
